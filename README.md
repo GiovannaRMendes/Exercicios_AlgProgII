@@ -17,3 +17,11 @@
 	 1. Ordena de acordo com o dígito mais a direita sendo a ordem crescente;
 	 2. Se o número seguido tiver o mesmo dígito, todos os que tem o mesmo estarão em ordem decrescente.
 
+
+
+## Exercício 1 de matrizes usando ponteiros:
+
+​	Fazer uma matriz identidade que recebe o valor de colunas e linhas. 
+
+##### 	*Como uma matriz identidade é quadrada, o número de linhas é o mesmo que o de colunas.
+
